@@ -2,9 +2,9 @@ body {
     font-family: "Roboto", sans-serif;
     overflow-x: hidden;
 }
-header {
-    background-color: rgb(160, 160, 245);
-}
+/* header {
+    background-color: rgb(220, 220, 248);
+} */
 .nav-link{
     font-weight: 500;
 }
